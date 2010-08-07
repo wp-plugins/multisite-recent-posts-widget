@@ -1,48 +1,11 @@
 <?php
 /*
 Plugin Name: WPMU Recent Posts Widget
-Plugin URI: http://bitfreedom.com/wpmu-posts-widget/
+Plugin URI: http://wordpress.org/extend/plugins/multisite-recent-posts-widget/
 Description: Creates a widget to show a list of the most recent posts across a WordPress MU installation.  This plugin is based on the work of many authors.
 Version: 1.1
 Author: Angelo
 Author URI: http://bitfreedom.com/
-
-OPTIONS
-* Number of posts to show - list this many posts.
-* Number of days to limit - only go back this number of days to get posts.  Set to -1 for no limit (default).
-
-VERSIONS
-
-Version 1.1
-Author: Angelo Bertolli
-Author URI:  http://bitfreedom.com/
-- Bugfix on base prefix
-
-Version 1.0
-Author: Angelo Bertolli
-Author URI:  http://bitfreedom.com/
-- Added widget options
-- No. of days set to <= 0 will not limit by time
-
-Version 0.4
-Author: Angelo Bertolli
-Author URI: http://bitfreedom.com/
-- Widgetized
-- Set default parameters
-- Removed default new posts of new blogs from results
-- Thanks to:  http://lonewolf-online.net/computers/wordpress/create-widgets/
-
-Version: 0.3.2
-Author: G. Morehouse
-Author URI: http://wiki.evernex.com/index.php?title=Wordpress_MU_sitewide_recent_posts_plugin
-
-Version: 0.3.1
-Author: Sven Laqua
-Author URI: http://www.sl-works.de/
-
-Version: 0.3
-Author: Ron Rennick
-Author URI: http://atypicalhomeschool.net/
 */
 
 /*
