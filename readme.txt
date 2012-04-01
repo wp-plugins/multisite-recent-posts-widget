@@ -10,6 +10,8 @@ Creates a widget to show a list of the most recent posts across a WordPress MU i
 
 == Description ==
 
+*Update:*  If you need more functionality please see the next generation of this plugin at http://wordpress.org/extend/plugins/network-latest-posts/
+
 Creates a widget to show a list of the most recent posts across a WordPress MU installation.  It shows the most recent post from each blog.  This plugin is based on the work of many authors.
 
 This works on previous versions of WPMU, but not on previous versions of WordPress (where it doesn't make sense).
